@@ -1,1 +1,1 @@
-This is a test android project.
+This is a test android project quick & simple.
